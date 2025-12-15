@@ -4,7 +4,7 @@ Um CRM Inteligente focado em qualificação de leads e automação de abordagem 
 
 O projeto utiliza **Inteligência Artificial Generativa** para analisar a dor do cliente (Pain Point) e gerar scripts de vendas personalizados em tempo real.
 
-🔗 **[Acesse a Demo Online aqui](COLQUE_SEU_LINK_DA_VERCEL_AQUI)**
+🔗 **[Acesse a Demo Online aqui](https://biteti-smartflow-crm.vercel.app/)**
 
 ![Status](https://img.shields.io/badge/Status-MVP%20Complete-green)
 
@@ -46,7 +46,7 @@ Em um cenário de produção real, a lógica da IA seria migrada para **Supabase
 
 1. Clone o repositório:
 \`\`\`bash
-git clone https://github.com/SEU_USUARIO/biteti-smartflow-crm.git
+git clone https://github.com/MiguelMA3/biteti-smartflow-crm.git
 \`\`\`
 
 2. Instale as dependências:
