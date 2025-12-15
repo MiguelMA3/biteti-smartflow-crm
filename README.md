@@ -45,27 +45,27 @@ Em um cenário de produção real, a lógica da IA seria migrada para **Supabase
 ## 🚀 Como rodar localmente
 
 1. Clone o repositório:
-\`\`\`bash
+```bash
 git clone https://github.com/MiguelMA3/biteti-smartflow-crm.git
-\`\`\`
+```
 
 2. Instale as dependências:
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 3. Configure as variáveis de ambiente:
-Crie um arquivo \`.env\` na raiz com:
-\`\`\`env
+Crie um arquivo `.env` na raiz com:
+```env
 VITE_SUPABASE_URL=sua_url
 VITE_SUPABASE_ANON_KEY=sua_chave
 VITE_GEMINI_API_KEY=sua_chave_ia
-\`\`\`
+```
 
 4. Rode o projeto:
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 ---
 
